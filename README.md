@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD
 ---
 license: mit
 license_link: https://huggingface.co/microsoft/Phi-3.5-mini-instruct/resolve/main/LICENSE
@@ -473,7 +473,5 @@ The overall Korean benchmarks show that the Phi-3.5-Mini-Instruct with only 3.8B
 | Other           |                   23.26 |                           27.27 |                   12.83 |    39.84 |         28.34 |         29.68 |           23.22 |
 | STEM            |                   20.5  |                           25.25 |                   12.75 |    40.25 |         23.25 |         27.25 |           19.75 |
 | **Overall**     |                   24.76 |                           25.73 |                   15.81 |    40.94 |         24.63 |         31.12 |           21.19 |# Network-Data-Analysis
-=======
+======= -->
 # Seismic-phi3.5
->>>>>>> e4793a180b6480c68a77803b576ea6c9c5311268
-# Network-Data-Analysis
