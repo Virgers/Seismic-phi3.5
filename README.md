@@ -475,3 +475,4 @@ The overall Korean benchmarks show that the Phi-3.5-Mini-Instruct with only 3.8B
 | **Overall**     |                   24.76 |                           25.73 |                   15.81 |    40.94 |         24.63 |         31.12 |           21.19 |# Network-Data-Analysis
 ======= -->
 # Seismic-phi3.5
+> [F3 semantic library](https://drive.google.com/drive/folders/1Cif5pMSYLAwOgZ4mGPQQcpO1NQADNfhi)
